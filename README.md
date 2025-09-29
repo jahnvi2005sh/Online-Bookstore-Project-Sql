@@ -1,3 +1,5 @@
+![Hospital Dashboard](https://github.com/jahnvi2005sh/Online-Bookstore-Project-Sql/blob/main/Screenshot%202025-09-29%20115931.png) 
+
 # 📚 Online Bookstore Database Project  
 
 ## 1. Project Title / Headline  
@@ -67,4 +69,3 @@ To design a normalized relational database and provide SQL queries that:
 - 🌍 Provides insights into **regional demand** (e.g., top countries/cities)  
 
 ---
-![Hospital Dashboard](https://github.com/jahnvi2005sh/Online-Bookstore-Project-Sql/blob/main/Screenshot%202025-09-29%20115931.png) 
