@@ -67,4 +67,4 @@ To design a normalized relational database and provide SQL queries that:
 - 🌍 Provides insights into **regional demand** (e.g., top countries/cities)  
 
 ---
-![Hospital Dashboard](https://github.com/username/repo/assets/hospital_dashboard.png) 
+![Hospital Dashboard](https://github.com/jahnvi2005sh/Online-Bookstore-Project-Sql/blob/main/Screenshot%202025-09-29%20115931.png) 
